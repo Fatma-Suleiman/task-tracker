@@ -1,21 +1,23 @@
-# task-tracker 📝
 
-A simple, interactive To-Do application built using **HTML, CSS, and JavaScript**.  
-This project demonstrates DOM manipulation, localStorage, filtering, and deleting items.
+TaskMaster
 
----
-## Features
+Title: TaskMaster
 
-- **Add Tasks:** Create new to-do items dynamically  
-- **Delete Tasks:** Remove individual tasks  
-- **Filter Tasks:** Filter tasks by keyword  
-- **Persistence:** Tasks are saved in localStorage and remain after refresh  
-- **Clear All:** Clear all tasks at once
+Description:
+A high-performance productivity application designed to help users organize their daily lives. Focused on creating an intuitive interface with real-time state updates, ensuring task management is fluid, fast, and satisfying.
 
----
+Features:
 
-## Tech Stack
+Add, edit, and delete tasks
 
-- **HTML**  
-- **CSS**  
-- **JavaScript (DOM Manipulation, localStorage)**  
+Real-time updates without page refresh
+
+Simple and clean user interface
+
+Tech Stack:
+
+JavaScript
+
+Client-side Logic
+
+Live Demo: TaskMaster Live
